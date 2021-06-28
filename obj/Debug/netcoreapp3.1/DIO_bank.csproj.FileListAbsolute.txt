@@ -1,0 +1,13 @@
+C:\Users\vitor\Documents\GitHub\DIO_bank\obj\Debug\netcoreapp3.1\DIO_bank.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\GitHub\DIO_bank\obj\Debug\netcoreapp3.1\DIO_bank.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\GitHub\DIO_bank\obj\Debug\netcoreapp3.1\DIO_bank.AssemblyInfo.cs
+C:\Users\vitor\Documents\GitHub\DIO_bank\obj\Debug\netcoreapp3.1\DIO_bank.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\GitHub\DIO_bank\bin\Debug\netcoreapp3.1\DIO_bank.exe
+C:\Users\vitor\Documents\GitHub\DIO_bank\bin\Debug\netcoreapp3.1\DIO_bank.deps.json
+C:\Users\vitor\Documents\GitHub\DIO_bank\bin\Debug\netcoreapp3.1\DIO_bank.runtimeconfig.json
+C:\Users\vitor\Documents\GitHub\DIO_bank\bin\Debug\netcoreapp3.1\DIO_bank.runtimeconfig.dev.json
+C:\Users\vitor\Documents\GitHub\DIO_bank\bin\Debug\netcoreapp3.1\DIO_bank.dll
+C:\Users\vitor\Documents\GitHub\DIO_bank\bin\Debug\netcoreapp3.1\DIO_bank.pdb
+C:\Users\vitor\Documents\GitHub\DIO_bank\obj\Debug\netcoreapp3.1\DIO_bank.dll
+C:\Users\vitor\Documents\GitHub\DIO_bank\obj\Debug\netcoreapp3.1\DIO_bank.pdb
+C:\Users\vitor\Documents\GitHub\DIO_bank\obj\Debug\netcoreapp3.1\DIO_bank.genruntimeconfig.cache
